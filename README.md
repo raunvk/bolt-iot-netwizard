@@ -23,4 +23,9 @@
 5. Run wifiscout.py to monitor active devices on your WiFi Network and send Telegram alerts [**$ sudo python3 wifiscout.py**]
 
 6. Run pingmaster.py to detect anomalies in your Internet Ping by Z-Score analysis and sends Telegram alerts [**$ sudo python3 pingmaster.py**]
+
+
+**Circuit Connection** :
+
+![](circuit.png) 
  
