@@ -2,7 +2,7 @@
 
 **Description** : Network Anomaly Detector
 
-**Hardware Requirement** : Wireless Network Adapter, Bolt IoT Device
+**Hardware Requirement** : Wireless Network Adapter, Bolt IoT Device, Mini Buzzer, Connecting Wires
 
 **Requisite** : Make sure you have Python3 installed in your System 
 
@@ -10,7 +10,11 @@
 
 1. Use the Wireless Network Adapter to connect to your WiFi
 
-2. Setup the Bolt Iot Device circuit connections as shown
+2. Setup the Bolt IoT Device circuit connection :
+
+      -> Connect +ve leg of the Mini Buzzer to pin '0' of the Bolt Iot Device using Connecting Wires
+
+      -> Connect -ve leg of the Mini Buzzer to pin 'GND' of the Bolt Iot Device using Connecting Wires
 
 3. Install requirements.txt to install necessary packages [**$ python3 -m pip install -r requirements.txt**] 
 
