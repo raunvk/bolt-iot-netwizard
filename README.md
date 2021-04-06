@@ -10,7 +10,7 @@
 
 1. Use the Wireless Network Adapter to connect to your WiFi
 
-2. Setup the Bolt Iot Device circuit connections as shown in circuit.img
+2. Setup the Bolt Iot Device circuit connections as shown
 
 3. Install requirements.txt to install necessary packages [**$ python3 -m pip install -r requirements.txt**] 
 
