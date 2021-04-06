@@ -12,9 +12,9 @@
 
 2. Setup the Bolt IoT Device circuit connection :
 
-      -> Connect +ve leg of the Mini Buzzer to pin '0' of the Bolt Iot Device using Connecting Wires
+      a) Connect +ve leg of the Mini Buzzer to pin '0' of the Bolt Iot Device using Connecting Wires
 
-      -> Connect -ve leg of the Mini Buzzer to pin 'GND' of the Bolt Iot Device using Connecting Wires
+      b) Connect -ve leg of the Mini Buzzer to pin 'GND' of the Bolt Iot Device using Connecting Wires
 
 3. Install requirements.txt to install necessary packages [**$ python3 -m pip install -r requirements.txt**] 
 
