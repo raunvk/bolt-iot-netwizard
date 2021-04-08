@@ -1,6 +1,6 @@
 # boltiot-netwizard
 
-**Description** : Bolt IoT and ML Training Project
+**Description** : Network Anomaly Detector
 
 **Hardware Requirement** : Wireless Network Adapter, Bolt IoT Device, Mini Buzzer, Connecting Wires
 
