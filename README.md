@@ -18,7 +18,7 @@
 
 5. Run wifiscout.py to monitor connected devices in your WiFi Network and send Telegram alerts [**$ sudo python3 wifiscout.py**]
 
-6. The no. of times LED will flash is going to indicate no. of devices connected in your Wifi Network
+6. The no. of times LED is going to flash will indicate no. of devices connected in your Wifi Network
 
 7. Run pingmaster.py to detect Internet Ping anomalies by Z-Score analysis and send Telegram alerts [**$ sudo python3 pingmaster.py**]
 
