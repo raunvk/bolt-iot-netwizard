@@ -26,8 +26,6 @@
 
 9. Run netwizard.py to do BOTH simultaneuosly [**$ sudo python3 netwizard.py**]
  
- https://github.com/raunvk/boltiot-netwizard/blob/main/wifiscout.txt
- 
 **Circuit Connection** :
 
 ![](circuit.png) 
