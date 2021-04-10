@@ -2,13 +2,13 @@
 
 **Description** : Bolt IoT and ML Training Project
 
-**Hardware Requirement** : Wireless Network Adapter, Bolt IoT Device, Mini Buzzer, Connecting Wires
+**Hardware Requirement** : Wireless Network Adapter (optional), Bolt IoT Device, Buzzer, LED, 330 Ohm Resistor, Connecting Wires
 
 **Requisite** : Make sure you have Python3 installed in your System 
 
 **How to Run (Linux)** :
 
-1. Use the Wireless Network Adapter to connect to your WiFi
+1. Use the Wireless Network Adapter to connect to your WiFi (optional)
 
 2. Setup the Bolt IoT Device circuit connection as shown below
 
@@ -18,7 +18,16 @@
 
 5. Run wifiscout.py to monitor connected devices in your WiFi Network and send Telegram alerts [**$ sudo python3 wifiscout.py**]
 
-6. Run pingmaster.py to detect Internet Ping anomalies by Z-Score analysis and send Telegram alerts [**$ sudo python3 pingmaster.py**]
+6. The no. of times LED will flash is going to indicate no. of devices connected in your Wifi Network
 
-7. Run netwizard.py to do BOTH simultaneuosly [**$ sudo python3 netwizard.py**]
+7. Run pingmaster.py to detect Internet Ping anomalies by Z-Score analysis and send Telegram alerts [**$ sudo python3 pingmaster.py**]
+
+8. When the buzzer will go off, it will indicate a Internet Ping anomaly has been detected
+
+9. Run netwizard.py to do BOTH simultaneuosly [**$ sudo python3 netwizard.py**]
  
+ https://github.com/raunvk/boltiot-netwizard/blob/main/wifiscout.txt
+ 
+**Circuit Connection** :
+
+![](circuit.png) 
