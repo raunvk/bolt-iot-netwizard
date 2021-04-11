@@ -4,7 +4,7 @@
 
 **Hardware Requirement** : Wireless Network Adapter (optional), Bolt IoT Device, Buzzer, LED, 330 Ohm Resistor, Connecting Wires
 
-**Requisite** : Make sure you have Python3 installed in your System 
+**Requisite** : Make sure you have Python3 and Pip installed in your System 
 
 **How to Run (Linux)** :
 
