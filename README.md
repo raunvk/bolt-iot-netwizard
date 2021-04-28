@@ -1,6 +1,6 @@
 # boltiot-netwizard
 
-**Description** : Bolt IoT and ML Training Project
+**Description** : Network Scouting and Ping Anomaly Detection
 
 **Hardware Requirement** : Wireless Network Adapter (optional), Bolt IoT Device, Buzzer, LED, 330 Ohm Resistor, Connecting Wires
 
