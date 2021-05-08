@@ -22,7 +22,7 @@
 
 7. Run pingmaster.py to detect Internet Ping anomalies by Z-Score analysis and send Telegram alerts [**$ sudo python3 pingmaster.py**]
 
-8. When the buzzer will turn on, it will indicate an Internet Ping anomaly has been detected
+8. When the buzzer is going to turn on, it will indicate an Internet Ping anomaly has been detected
 
 9. Run netwizard.py to do BOTH simultaneuosly [**$ sudo python3 netwizard.py**]
  
