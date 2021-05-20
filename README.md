@@ -1,6 +1,6 @@
 # boltiot-netwizard
 
-**Description** : Network Scouting and Ping Anomaly Detection
+**Description** : IoT based Network Scouting & Anomaly Detection
 
 **Hardware Requirement** : Wireless Network Adapter (optional), Bolt IoT Device, Buzzer, LED, 330 Ohm Resistor, Connecting Wires
 
