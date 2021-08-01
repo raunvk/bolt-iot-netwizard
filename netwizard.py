@@ -8,7 +8,7 @@ import conf			# config file
 import scapy.all as sc    	# import scapy library
 
 try:
-    file = open('netwizard.txt', 'r')
+    file = open('netwizard-header.txt', 'r')
     print (' ')
     print (file.read())
     file.close()
