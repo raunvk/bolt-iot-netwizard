@@ -8,7 +8,7 @@ import conf                 	# config file
 import scapy.all as sc    	# import scapy library
 
 try:
-	file = open('wifiscout.txt', 'r')
+	file = open('wifiscout-header.txt', 'r')
 	print (' ')
 	print (file.read())
 	file.close()
