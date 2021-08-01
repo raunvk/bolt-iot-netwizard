@@ -11,7 +11,7 @@ mybolt = Bolt(conf.bolt_api_key, conf.device_id)
 ping_history=[]
 
 try:
-	file = open('pingmaster.txt', 'r')
+	file = open('pingmaster-header.txt', 'r')
 	print (' ')
 	print (file.read())
 	file.close()
@@ -103,5 +103,3 @@ while True:
 	except Exception as e:
 		print ("Error : ",e)
 	time.sleep(10)
-
-
