@@ -1,4 +1,4 @@
-# boltiot-netwizard
+# bolt-iot-netwizard
 
 **Blog Link** : https://www.hackster.io/raunakd137/bolt-iot-netwizard-3fc58d
 
